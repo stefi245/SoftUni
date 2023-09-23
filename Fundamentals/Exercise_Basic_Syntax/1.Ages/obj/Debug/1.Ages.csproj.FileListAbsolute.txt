@@ -1,0 +1,8 @@
+C:\Users\USER\Documents\Coding\HW\Exercise Basic Syntax\1.Ages\obj\Debug\1.Ages.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Coding\HW\Exercise Basic Syntax\1.Ages\obj\Debug\1.Ages.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\Coding\HW\Exercise Basic Syntax\1.Ages\obj\Debug\1.Ages.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Coding\HW\Exercise Basic Syntax\1.Ages\bin\Debug\1.Ages.exe.config
+C:\Users\USER\Documents\Coding\HW\Exercise Basic Syntax\1.Ages\bin\Debug\1.Ages.exe
+C:\Users\USER\Documents\Coding\HW\Exercise Basic Syntax\1.Ages\bin\Debug\1.Ages.pdb
+C:\Users\USER\Documents\Coding\HW\Exercise Basic Syntax\1.Ages\obj\Debug\1.Ages.exe
+C:\Users\USER\Documents\Coding\HW\Exercise Basic Syntax\1.Ages\obj\Debug\1.Ages.pdb

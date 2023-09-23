@@ -1,0 +1,8 @@
+C:\Users\USER\Documents\Coding\HW\Exercise Basic Syntax\2.Division\bin\Debug\2.Division.exe.config
+C:\Users\USER\Documents\Coding\HW\Exercise Basic Syntax\2.Division\bin\Debug\2.Division.exe
+C:\Users\USER\Documents\Coding\HW\Exercise Basic Syntax\2.Division\bin\Debug\2.Division.pdb
+C:\Users\USER\Documents\Coding\HW\Exercise Basic Syntax\2.Division\obj\Debug\2.Division.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Coding\HW\Exercise Basic Syntax\2.Division\obj\Debug\2.Division.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\Coding\HW\Exercise Basic Syntax\2.Division\obj\Debug\2.Division.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Coding\HW\Exercise Basic Syntax\2.Division\obj\Debug\2.Division.exe
+C:\Users\USER\Documents\Coding\HW\Exercise Basic Syntax\2.Division\obj\Debug\2.Division.pdb
