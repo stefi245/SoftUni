@@ -1,0 +1,8 @@
+C:\Users\USER\Documents\Coding\HW\Exercise Basic Syntax\06. Strong number\bin\Debug\_06.Strong_number.exe.config
+C:\Users\USER\Documents\Coding\HW\Exercise Basic Syntax\06. Strong number\bin\Debug\_06.Strong_number.exe
+C:\Users\USER\Documents\Coding\HW\Exercise Basic Syntax\06. Strong number\bin\Debug\_06.Strong_number.pdb
+C:\Users\USER\Documents\Coding\HW\Exercise Basic Syntax\06. Strong number\obj\Debug\06. Strong number.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Coding\HW\Exercise Basic Syntax\06. Strong number\obj\Debug\06. Strong number.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\Coding\HW\Exercise Basic Syntax\06. Strong number\obj\Debug\06. Strong number.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Coding\HW\Exercise Basic Syntax\06. Strong number\obj\Debug\_06.Strong_number.exe
+C:\Users\USER\Documents\Coding\HW\Exercise Basic Syntax\06. Strong number\obj\Debug\_06.Strong_number.pdb
